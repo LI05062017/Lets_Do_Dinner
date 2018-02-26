@@ -1,4 +1,4 @@
-Lets_Do_Dinner
+Lets_Do_Dinner Cloned Repository
 This project was done between two classmates, and myself while in Big Sky Code Academy. Our inspiration was from the FoodToFork API, and we each worked on different components of the project.
 
 My contributions to this projct are in Header.js, Main.js, Menu.js, Home.js TopRated Components, and in Trending Components.
